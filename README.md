@@ -41,9 +41,9 @@
 ### 8. Documentação de Resultados e Conclusões
 **Datas:** 04/11/2024 – 02/12/2024  
 **Duração:** 21 dias  
-**Descrição:** Redigir o relatório final que documenta os resultados do projeto, incluindo a análise dos dados obtidos, as conclusões sobre a eficácia do protótipo e recomendações para futuras melhorias. Este relatório deve apresentar uma visão clara dos sucessos e desafios encontrados durante o desenvolvimento.
+**Descrição:** Redigir o Relatório dos resultados do projeto, incluindo a análise dos dados obtidos, as conclusões sobre a eficácia do protótipo e recomendações para futuras melhorias. Apresentar uma visão clara dos sucessos e desafios encontrados durante o desenvolvimento.
 
 ### 9. Preparação e Apresentação de Pitch
 **Datas:** 03/12/2024 – 06/12/2024  
 **Duração:** 4 dias  
-**Descrição:** Preparar e realizar uma apresentação do projeto para stakeholders, investidores ou outras partes interessadas. O pitch deve resumir os principais aspectos do projeto, incluindo a proposta, desenvolvimento, resultados e benefícios. A apresentação deve ser convincente e destacar os pontos fortes da solução desenvolvida.
+**Descrição:** Preparar e realizar Apresentação em formato Stakeholders. Deve resumir os principais aspectos do projeto, incluindo a proposta, desenvolvimento, resultados e benefícios.
