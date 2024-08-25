@@ -1,5 +1,8 @@
 # JornadaTemperlandia
 
+# Referências
+Normas vidreiras:
+- [NBR 14698](https://abravidro.org.br/abntcb-37-avanca-nos-trabalhos-de-revisao-da-nbr-14698/)
 
 [![Cronograma](./cronograma.png)](https://github.com/anthonphax/JornadaTemperlandia/blob/master/cronograma.png)
 
