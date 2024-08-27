@@ -8,6 +8,14 @@ Normas vidreiras:
     - [Node Red](https://nodered.org/)
     - ModBus + MQTT
 
+# Introdução
+Esse artigo busca explorar possibilidades de solução para rastreabilidade de produção, focando na identificação de status de recursos produtivos, erros de produção e estoques gerados de recursos com imperfeições que podem ser reutilizados. A pesquisa é feita em parceria com a indústria vidreira de Londrina, Terperlândia, que produz diferentes peças em vidro e têmperas.
+A solução a ser apresentada busca trazer maior assertividade de onde estão os recursos de pedidos, pois as peças tem um rastreio limitado apenas a quando entram na máquina, faltando uma visão global e sistemática de falhas, recursos parados, atrasos de produção e perdas. O objetivo é trazer a luz maneiras de agilizar o processo produtivo e trazer maior controle sobre perdas de recursos que podem ser reutilizados. 
+
+
+
+
+
 # Mercado
 - **GlassControl**: registra todas as ocorrências de não conformidades ocorridas durante o processo produtivo, principalmente quebras de chapas no estoque. Produz indicadores de qualidade, relatórios e gráficos de ocorrências. - Pode registrar os retalhos/sobras gerados e indica quais peças estão disponíveis para otimização/corte e que cabem no retalho gerado, com isto, diminui a quantidade de retalhos gerados e ainda agiliza a produção.
 
