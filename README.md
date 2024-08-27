@@ -8,11 +8,13 @@ Normas vidreiras:
     - [Node Red](https://nodered.org/)
     - ModBus + MQTT
 
+Palavras chaves: Sistema de Supervisão e Aquisição de Dados,
+
 # Introdução
     Esse artigo busca explorar possibilidades de solução para rastreabilidade de produção, focando na identificação de status de recursos produtivos, erros de produção e estoques gerados de recursos com imperfeições que podem ser reutilizados. A pesquisa é feita em parceria com a indústria vidreira de Londrina, Terperlândia, que produz diferentes peças em vidro e têmperas.
     A solução a ser apresentada busca trazer maior assertividade de onde estão os recursos de pedidos, pois as peças tem um rastreio limitado apenas a quando entram na máquina, faltando uma visão global e sistemática de falhas, recursos parados, atrasos de produção e perdas. O objetivo é trazer a luz maneiras de agilizar o processo produtivo e trazer maior controle sobre perdas de recursos que podem ser reutilizados. 
     Introduzindo ao processo mais formas de controle do estoque, a principal modificação será a inserção de 3 etapas de verificação no processo atual, o mesmo atualmente apenas faz a verificação de itens do pedido na hora que antecede a entrega final ao consumidor, promovendo uma falha de ter que parar todo o processo produtivo contínuo e escolher entre procurar o objeto perdido ou refazer em um próximo lote.
-
+    Para alcançar esse objetivo, nosso projeto implementará um Sistema de Supervisão e Aquisição de Dados (SCADA), que permitirá uma interface de controle detalhada para cada pedido produzido. Essa interface será interativa, permitindo que o operador clique em um pacote específico e seja direcionado para uma tela que detalha o conteúdo e status daquele lote. Isso trará maior visibilidade e controle em tempo real, assegurando que cada lote seja gerido de forma eficiente e transparente à todo momento do processo industrial.
 
 
 
