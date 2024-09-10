@@ -5,8 +5,15 @@ Normas vidreiras:
 - [NBR 14698](https://abravidro.org.br/abntcb-37-avanca-nos-trabalhos-de-revisao-da-nbr-14698/)
 - [O que é um sistema SCADA?](https://www.hitecnologia.com.br/o-que-e-um-sistema-scada/) 
 - [Supervisory Control and Data Acquisition Approach in Node-RED. Application and Discussions](./bibliografia/Supervisory_Control_and_Data_Acquisition_Approach_.pdf)
-    - [Node Red](https://nodered.org/)
-    - ModBus + MQTT
+- [Node Red](https://nodered.org/)
+- ModBus + MQTT
+
+## Tracebility
+- [Eclipse TractusX Traceability FOSS](https://github.com/eclipse-tractusx/traceability-foss)
+- [Tecnipesa Industrial Labelling Machines](https://www.tecnipesa.com/en/products/industrial-labelling-machines)
+- [Gravotech Product Traceability](https://www.gravotech.com/articles/product-traceability)
+- [Grafana: Industrial IoT Visualization](https://grafana.com/blog/2024/07/01/industrial-iot-visualization-why-united-manufacturing-hub-chose-grafana-to-power-its-iiot-platform/)
+
 
 Palavras chaves: Sistema de Supervisão e Aquisição de Dados,
 
