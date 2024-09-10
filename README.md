@@ -24,6 +24,15 @@ Palavras chaves: Sistema de Supervisão e Aquisição de Dados,
     Para alcançar esse objetivo, nosso projeto implementará um Sistema de Supervisão e Aquisição de Dados (SCADA), que permitirá uma interface de controle detalhada para cada pedido produzido. Essa interface será interativa, permitindo que o operador clique em um pacote específico e seja direcionado para uma tela que detalha o conteúdo e status daquele lote. Isso trará maior visibilidade e controle em tempo real, assegurando que cada lote seja gerido de forma eficiente e transparente à todo momento do processo industrial.
 
 
+# Método de pesquisa  
+    O objetivo da pesquisa é analisar e entender as melhores práticas e tecnologias de rastreabilidade na indústria de vidro, focando em como sistemas baseados em códigos de barras e soluções de marcação podem ser otimizados para melhorar a eficiência e a transparência do processo produtivo. Especificamente, a pesquisa visa identificar e avaliar as ferramentas e métodos mais eficazes para a rastreabilidade, considerando a implementação prática de tecnologias e sistemas que suportem um rastreamento eficiente de produtos.
+
+    Para alcançar este objetivo, será realizada análise de artigos acadêmicos, estudos de caso e informações técnicas relacionadas à rastreabilidade industrial. A revisão da literatura permitirá uma compreensão sólida das práticas atuais e das tecnologias emergentes no campo da rastreabilidade e avaliação crítica das soluções existentes. Será analisado é o Eclipse TractusX Traceability FOSS, uma solução de rastreabilidade open source que promete flexibilidade e inovação para o gerenciamento de dados de rastreamento. Em seguida, será explorado o Tecnipesa Industrial Labelling Machines, conhecido por suas máquinas de rotulagem industrial que facilitam a marcação de códigos de barras em produtos de vidro e outros materiais. Finalmente, a análise incluirá o Gravotech Product Traceability, que oferece uma abordagem especializada para a rastreabilidade de produtos através de tecnologias de marcação e leitura.
+
+    Além das análises de casos, a pesquisa também investigará o impacto das soluções de visualização de dados em ambientes industriais, com base no Grafana: Industrial IoT Visualization. A plataforma Grafana é conhecida por sua capacidade de integrar e visualizar dados de sistemas de rastreabilidade em tempo real, proporcionando insights valiosos para a gestão e otimização de processos industriais. Esta análise ajudará a compreender como a visualização de dados pode melhorar a eficiência e a tomada de decisões na rastreabilidade.
+
+    A pesquisa será conduzida através de visita técnica às instalações das empresa Temperlândia, possibilitando uma visão prática e detalhada das tecnologias em uso e suas aplicações reais na indústria de vidro. A ausência de entrevistas será compensada pela coleta direta de dados durante as visitas técnicas, garantindo uma análise prática e fundamentada das soluções de rastreabilidade estudadas.
+
 
 
 # Mercado
