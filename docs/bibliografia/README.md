@@ -78,11 +78,11 @@ Palavras chaves: Sistema de Supervisão e Aquisição de Dados,
 **Descrição:** Compilar toda a documentação relacionada ao desenvolvimento do projeto, incluindo especificações técnicas, códigos fonte, diagramas e registros de testes. Esta documentação é importante para garantir a continuidade do projeto e facilitar futuras manutenções ou atualizações.
 
 ### 8. Documentação de Resultados e Conclusões
-**Datas:** 04/11/2024 – 02/12/2024  
+**Datas:** 04/10/2024 – 02/11/2024  
 **Duração:** 21 dias  
 **Descrição:** Redigir o Relatório dos resultados do projeto, incluindo a análise dos dados obtidos, as conclusões sobre a eficácia do protótipo e recomendações para futuras melhorias. Apresentar uma visão clara dos sucessos e desafios encontrados durante o desenvolvimento.
 
 ### 9. Preparação e Apresentação de Pitch
-**Datas:** 03/12/2024 – 06/12/2024  
-**Duração:** 4 dias  
+**Datas:** 02/09/2024 – 28/11/2024
+**Duração:** 26 dias  
 **Descrição:** Preparar e realizar Apresentação em formato Stakeholders. Deve resumir os principais aspectos do projeto, incluindo a proposta, desenvolvimento, resultados e benefícios.
