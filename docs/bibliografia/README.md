@@ -39,6 +39,19 @@ Palavras chaves: Sistema de Supervisão e Aquisição de Dados,
 - **GlassControl**: registra todas as ocorrências de não conformidades ocorridas durante o processo produtivo, principalmente quebras de chapas no estoque. Produz indicadores de qualidade, relatórios e gráficos de ocorrências. - Pode registrar os retalhos/sobras gerados e indica quais peças estão disponíveis para otimização/corte e que cabem no retalho gerado, com isto, diminui a quantidade de retalhos gerados e ainda agiliza a produção.
 
 
+# Trace X
+## Teoria
+  O Trace-X é uma solução de rastreabilidade open-source desenvolvida dentro do ecossistema Catena-X. Seu objetivo é padronizar e facilitar o intercâmbio de dados sobre componentes manufaturados e lotes em cadeias de suprimentos complexas. O sistema é projetado para empresas que necessitam de rastreamento detalhado e eficiente, permitindo a visualização de dados de rastreabilidade ao longo do ciclo de vida do produto. Ele se destaca pela interoperabilidade e pela soberania dos dados, promovendo um ambiente de troca segura e padronizada de informações entre diferentes parceiros de negócios. O Trace-X é baseado em tecnologias modernas, como o framework Spring Boot, e oferece uma API REST para a integração com outros sistemas, garantindo flexibilidade e escalabilidade para diferentes tipos de indústrias.
+
+Referências: https://eclipse-tractusx.github.io/traceability-foss/docs/arc42/scope-context/index.html
+
+## Concorrência
+  No mercado de soluções de rastreabilidade, o Trace-X se diferencia principalmente por ser open-source e parte de um ecossistema colaborativo como o Catena-X, o que lhe concede vantagens em termos de integração e flexibilidade. Soluções concorrentes, como as fornecidas por empresas de rotulagem industrial, como Tecnipesa, tendem a ser mais proprietárias e menos flexíveis, limitando o controle das empresas sobre os seus dados e processos. Além disso, sistemas mais fechados podem não oferecer o mesmo nível de interoperabilidade e customização que o Trace-X proporciona. Sua capacidade de interoperar com outros aplicativos de rastreabilidade e sua conformidade com padrões abertos o tornam uma alternativa poderosa frente às soluções mais tradicionais, que frequentemente exigem uma infraestrutura mais rígida e de díficil adaptação.
+  
+Referências: https://eclipse-tractusx.github.io/traceability-foss/docs/arc42/introduction-goals/index.html
+
+
+
 # Cronograma
 [![Cronograma](./cronograma.png)](https://github.com/anthonphax/JornadaTemperlandia/blob/master/cronograma.png)
 
