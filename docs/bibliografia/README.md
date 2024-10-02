@@ -40,7 +40,7 @@ Palavras chaves: Sistema de Supervisão e Aquisição de Dados,
 
 
 ## Trace X
--  **Teoria**: O Trace-X é uma solução de rastreabilidade open-source desenvolvida dentro do ecossistema Catena-X. Seu objetivo é padronizar e facilitar o intercâmbio de dados sobre componentes manufaturados e lotes em cadeias de suprimentos complexas. O sistema é projetado para empresas que necessitam de rastreamento detalhado e eficiente, permitindo a visualização de dados de rastreabilidade ao longo do ciclo de vida do produto. Ele se destaca pela interoperabilidade e pela soberania dos dados, promovendo um ambiente de troca segura e padronizada de informações entre diferentes parceiros de negócios. O Trace-X é baseado em tecnologias modernas, como o framework Spring Boot, e oferece uma API REST para a integração com outros sistemas, garantindo flexibilidade e escalabilidade para diferentes tipos de indústrias.
+- **Teoria**: O Trace-X é uma solução de rastreabilidade open-source desenvolvida dentro do ecossistema Catena-X. Seu objetivo é padronizar e facilitar o intercâmbio de dados sobre componentes manufaturados e lotes em cadeias de suprimentos complexas. O sistema é projetado para empresas que necessitam de rastreamento detalhado e eficiente, permitindo a visualização de dados de rastreabilidade ao longo do ciclo de vida do produto. Ele se destaca pela interoperabilidade e pela soberania dos dados, promovendo um ambiente de troca segura e padronizada de informações entre diferentes parceiros de negócios. O Trace-X é baseado em tecnologias modernas, como o framework Spring Boot, e oferece uma API REST para a integração com outros sistemas, garantindo flexibilidade e escalabilidade para diferentes tipos de indústrias.
 
 - **Concorrência**: No mercado de soluções de rastreabilidade, o Trace-X se diferencia principalmente por ser open-source e parte de um ecossistema colaborativo como o Catena-X, o que lhe concede vantagens em termos de integração e flexibilidade. Soluções concorrentes, como as fornecidas por empresas de rotulagem industrial, como Tecnipesa, tendem a ser mais proprietárias e menos flexíveis, limitando o controle das empresas sobre os seus dados e processos. Além disso, sistemas mais fechados podem não oferecer o mesmo nível de interoperabilidade e customização que o Trace-X proporciona. Sua capacidade de interoperar com outros aplicativos de rastreabilidade e sua conformidade com padrões abertos o tornam uma alternativa poderosa frente às soluções mais tradicionais, que frequentemente exigem uma infraestrutura mais rígida e de díficil adaptação.
 
@@ -52,6 +52,23 @@ https://eclipse-tractusx.github.io/traceability-foss/docs/arc42/introduction-goa
 https://eclipse-tractusx.github.io/traceability-foss/docs/arc42/scope-context/index.html
 
 
+## Gravotech
+- **Teoria**: A Gravotech é uma empresa consolidada no campo de soluções de mercação e rastreabilidade industrial, com mais de quatro décadas de experiência. Seu foco principal está na marcação direta de produtos por meio de tecnologias como lasers de fibra, híbridos e CO2, que aplicam marcas permanentes em uma ampla variedade de materiais, incluindo metais e plásticos. A rastreabilidade proporcionada por essas marcas envolve a gravação de códigos alfanuméricos e 2D DataMatrix, que garantem que cada peça possa ser rastreada durante todo o seu ciclo de vida. A Gravotech busca oferecer soluções para indústrias que operam sob regulamentações rigorosas, como a automotiva e a de saúde, assegurando conformidade e eficiência na produção.
+  
+- **Concorrência**:
+  
+- **Fluxos de Rastreabilidade**:
+
+- **Estágios da traceabilidade industrial**:
+  1. Aquisição de peças e fornecimento: Vários fornecedores enviam suas peças e matérias-primas, sem necessariamente terem um código de identificação.
+  2. Fabricação/Usinagem: Ao receber as peças, um código de identificação é atribuído, e este é retornado ao estoque para ser acompanhado durante toda a transformação do produto.
+  3. Marcação/Montagem: Lotes de peças transformadas recebem um novo número para identificar quais fazem parte do lote.
+  4. Distribuição: A rede de distribuição insere a peça no estoque de acordo com o código de identificação fornecido e, em seguida, atribui um usuário.
+  5. Uso: O código de identificação permitirá, subindo a cadeia, chegar ao distribuidor por meio do número do lote, bem como das referências da peça e do fornecedor.
+
+Referências:
+https://www.gravotech.us/products/integrable-laser-markers
+https://en.gravotech.cn/articles/product-traceability
 
 # Cronograma
 [![Cronograma](./cronograma.png)](https://github.com/anthonphax/JornadaTemperlandia/blob/master/cronograma.png)
